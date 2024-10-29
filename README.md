@@ -37,7 +37,7 @@
 
 - **Using CLI**
     ```
-    <!-- https://drive.google.com/file/d/1YzgaBsE3Z_h3kMFBBhq3DLqpChxBmRb5/view?usp=sharinga -->
+    
         > cd Cake-Shop/Cake-Shop/
         > npm install
         > dotnet restore
@@ -50,3 +50,4 @@
         > dotnet ef database update
         > dotnet run 
     ```
+<!-- https://drive.google.com/file/d/1YzgaBsE3Z_h3kMFBBhq3DLqpChxBmRb5/view?usp=sharinga -->
