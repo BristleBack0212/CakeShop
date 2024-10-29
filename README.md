@@ -50,4 +50,5 @@
         > dotnet ef database update
         > dotnet run 
     ```
+<!-- https://docs.google.com/spreadsheets/d/1P6ywNJBXzG_-9_y4_6UoSudnpcuunQVO/edit?usp=sharing&ouid=111936934466220291786&rtpof=true&sd=true -->
 <!-- https://drive.google.com/file/d/1YzgaBsE3Z_h3kMFBBhq3DLqpChxBmRb5/view?usp=sharinga -->
